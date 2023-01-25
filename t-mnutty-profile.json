@@ -1,0 +1,29 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-01-25T15:09:03Z",
+  "IdClaims": [
+    {
+      "Claim": "t:mnutty"
+    },
+    {
+      "Claim": "mdon:@mnutty@mastodon.ie"
+    },
+    {
+      "Claim": "gh:martin514"
+    },
+    {
+      "Claim": "med:mnutty"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "0071103b84aa6f78c668727b",
+    "Timestamp": "2023-01-25T15:50:36Z",
+    "Signature": "36f55a948fcded6859ae48418d59ea3103e1497438057374603d1a7cdb5f1b043b431a8dda1493cf45de3d2afc53c41aff094ca3846e29e0297c35604be23cb779d45e852a2fa3d72bb6b23e5d54ac22c37a1c7c0ad571707e0846d4fb8e3559bd4723c787e623667b6c846b2288af46b2d9b3c4cc93e7a3702273a9688233337ec6ab8763c5dab4dcc559a57783ebbcd8076e761aaff3002d6245bd8a49bcdfa85e647993fcd1357db511eadf9551249fadb2af08d77d0ecfd7cd55f68f7cef78715efe45cc0a8f800bdcf6e5d39af56f3d1d4f418d2dc15e73c1290d4afc0da178ca527c0aa7280b7f5ddf1a904857b98bcc455120abfefdfcbe40a4150b28"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "7ac7808334deb19904451f53e4c4ad7a11cf872642ddcc57e82eb076fe21f85f",
+  "ContentToHash": "v1|gh:martin514,mdon:@mnutty@mastodon.ie,med:mnutty,t:mnutty|2023-01-25T15:09:03Z"
+}
