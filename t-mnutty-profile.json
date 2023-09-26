@@ -13,17 +13,20 @@
     },
     {
       "Claim": "med:mnutty"
+    },
+    {
+      "Claim": "x:mnutty"
     }
   ],
   "IdDisclaims": null,
   "Signature": {
     "Authority": "https://whosum.com",
     "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
-    "Nonce": "0071103b84aa6f78c668727b",
-    "Timestamp": "2023-01-25T15:50:36Z",
-    "Signature": "36f55a948fcded6859ae48418d59ea3103e1497438057374603d1a7cdb5f1b043b431a8dda1493cf45de3d2afc53c41aff094ca3846e29e0297c35604be23cb779d45e852a2fa3d72bb6b23e5d54ac22c37a1c7c0ad571707e0846d4fb8e3559bd4723c787e623667b6c846b2288af46b2d9b3c4cc93e7a3702273a9688233337ec6ab8763c5dab4dcc559a57783ebbcd8076e761aaff3002d6245bd8a49bcdfa85e647993fcd1357db511eadf9551249fadb2af08d77d0ecfd7cd55f68f7cef78715efe45cc0a8f800bdcf6e5d39af56f3d1d4f418d2dc15e73c1290d4afc0da178ca527c0aa7280b7f5ddf1a904857b98bcc455120abfefdfcbe40a4150b28"
+    "Nonce": "95bbc18c413a71eaf63eda43",
+    "Timestamp": "2023-09-26T21:51:33Z",
+    "Signature": "8ac011900f990a50d9a9a64c73c53097bfa94928da5c1cadcc72e8b59bac5fb584292cbff1dccafbef03c4505c5196903e884346bebd12b23114883da54b3da68e7e1a3c56bae4447ade999fbdc68237df15b8d2d441d7e46eac8431e33733e45107dd2ad8d936fd7ecf821696a16ddc97aff1ecf73ecc760d2620265080e6e0e729c79d884c38e530eec4acda21aa906589821bec8438176356d23bfa6a760d2da228de4bda2a1aedd52d2788f2007d2473decd13219432ab0d33bb8a4e351cb99a6e923f2d76dc1a567f92d45e0b42615ae7f88a8c5a5e90bd090ef23125319f928dd4f87f6ba7dfeb3881210440e13173fc3dff80e2358aa641485cd5dff6"
   },
   "AgreedToTerms": true,
-  "ContentSha256": "7ac7808334deb19904451f53e4c4ad7a11cf872642ddcc57e82eb076fe21f85f",
-  "ContentToHash": "v1|gh:martin514,mdon:@mnutty@mastodon.ie,med:mnutty,t:mnutty|2023-01-25T15:09:03Z"
+  "ContentSha256": "b4b5dc68ae024ed3a2a8113a2def0acc59b7916728fc0022685e24308c81cec0",
+  "ContentToHash": "v1|gh:martin514,mdon:@mnutty@mastodon.ie,med:mnutty,t:mnutty,x:mnutty|2023-01-25T15:09:03Z"
 }
